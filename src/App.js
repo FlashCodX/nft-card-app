@@ -7,7 +7,7 @@ export const App = () => {
             <img className={'eye'} src={require('./images/icon-view.svg').default}
                  alt="eye"/>
         </section>
-        <a href="#">Equilibrium #3429</a>
+      <a href="#">Equilibrium #3429</a>
         <p>Our Equilibrium collection promotes balance and calm.</p>
         <section className={'nft-specs'}>
             <section>
